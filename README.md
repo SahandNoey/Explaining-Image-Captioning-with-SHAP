@@ -15,8 +15,8 @@ The project uses:
 ## Example Results
 <div style="background-color: white>
   
-![](https://github.com/SahandNoey/Explainable-Image-Captioning-with-SHAP/blob/master/basketball.png)
-![](https://github.com/SahandNoey/Explainable-Image-Captioning-with-SHAP/blob/master/bird.png)
+![](https://github.com/SahandNoey/Explaining-Image-Captioning-with-SHAP/blob/master/basketball.png)
+![](https://github.com/SahandNoey/Explaining-Image-Captioning-with-SHAP/blob/master/bird.png)
 
 <div align="center">
   <i>SHAP values using <b>blur</b> as mask value</i>
@@ -25,7 +25,7 @@ The project uses:
 
 
 <br></br>
-![](https://github.com/SahandNoey/Explainable-Image-Captioning-with-SHAP/blob/master/basketball2.png)
+![](https://github.com/SahandNoey/Explaining-Image-Captioning-with-SHAP/blob/master/basketball2.png)
 <div align="center">
   <i>SHAP values using <b>inpaint_telea</b> as mask value</i>
 </div>
