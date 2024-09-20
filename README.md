@@ -14,4 +14,19 @@ The project uses:
 
 ## Example Results
 
-- SHAP will generate a visualization showing the most important regions in the image that contributed to the caption generation.
+![](https://github.com/SahandNoey/Explainable-Image-Captioning-with-SHAP/blob/master/basketball.png)
+![](https://github.com/SahandNoey/Explainable-Image-Captioning-with-SHAP/blob/master/bird.png)
+
+<div align="center">
+  <i>SHAP values using <b>blur</b> as mask value</i>
+</div>
+
+
+
+<br></br>
+![](https://github.com/SahandNoey/Explainable-Image-Captioning-with-SHAP/blob/master/basketball2.png)
+<div align="center">
+  <i>SHAP values using <b>inpaint_telea</b> as mask value</i>
+</div>
+
+
