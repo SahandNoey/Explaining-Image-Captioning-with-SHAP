@@ -1,4 +1,4 @@
-# Explainable Image Captioning with SHAP and PyTorch
+# Explaining Image Captioning with SHAP and PyTorch
 
 This project demonstrates how to explain the outputs of an image captioning model using the SHAP framework. The main objective is to understand how different parts of an input image contribute to the generated captions by using SHAP's partition explainer.
 
@@ -13,7 +13,8 @@ The project uses:
 ## [Setup](https://shap.readthedocs.io/en/latest/example_notebooks/image_examples/image_captioning/Image%20Captioning%20using%20Open%20Source.html#Setting-up-open-source-model)
 
 ## Example Results
-
+<div style="background-color: white>
+  
 ![](https://github.com/SahandNoey/Explainable-Image-Captioning-with-SHAP/blob/master/basketball.png)
 ![](https://github.com/SahandNoey/Explainable-Image-Captioning-with-SHAP/blob/master/bird.png)
 
@@ -27,6 +28,7 @@ The project uses:
 ![](https://github.com/SahandNoey/Explainable-Image-Captioning-with-SHAP/blob/master/basketball2.png)
 <div align="center">
   <i>SHAP values using <b>inpaint_telea</b> as mask value</i>
+</div>
 </div>
 
 
