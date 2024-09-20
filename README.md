@@ -13,7 +13,7 @@ The project uses:
 ## [Setup](https://shap.readthedocs.io/en/latest/example_notebooks/image_examples/image_captioning/Image%20Captioning%20using%20Open%20Source.html#Setting-up-open-source-model)
 
 ## Example Results
-<div style="background-color: white>
+<div style="background-color:white;">
   
 ![](https://github.com/SahandNoey/Explaining-Image-Captioning-with-SHAP/blob/master/basketball.png)
 ![](https://github.com/SahandNoey/Explaining-Image-Captioning-with-SHAP/blob/master/bird.png)
