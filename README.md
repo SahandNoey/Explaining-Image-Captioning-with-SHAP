@@ -10,7 +10,7 @@ The project uses:
 - **PyTorch** for loading the pre-trained image captioning model based on **ResNet101**. Using the **DistilBART** transformer language model for alignment scoring between masked and original image captions.
 - **SHAP** to explain the predictions of the image captioning model by masking various parts of the image.
 
-## [Setup](https://shap.readthedocs.io/en/latest/example_notebooks/image_examples/image_captioning/Image%20Captioning%20using%20Open%20Source.html#Setting-up-open-source-model).
+## [Setup](https://shap.readthedocs.io/en/latest/example_notebooks/image_examples/image_captioning/Image%20Captioning%20using%20Open%20Source.html#Setting-up-open-source-model)
 
 ## Example Results
 
